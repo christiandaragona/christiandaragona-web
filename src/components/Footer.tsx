@@ -29,7 +29,7 @@ export default function Footer() {
       </div>
 
       <div className="fine-print">
-        <span>Christian Daragona · Web Design · Saugerties, NY</span>
+        <span>Sicuro Design Services · Saugerties, NY</span>
         <span>Prices as of May 2026 · Subject to project scope</span>
         <span>All sites are mobile-first, fast, and fully owned by you</span>
       </div>

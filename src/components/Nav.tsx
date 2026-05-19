@@ -2,7 +2,7 @@ export default function Nav() {
   return (
     <nav className="nav">
       <div className="nav-logo">
-        Christian <span>Daragona</span>
+        Sicuro <span>Design</span>
       </div>
       <ul className="nav-links">
         <li><a href="#services">Services</a></li>

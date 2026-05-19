@@ -9,8 +9,8 @@ export default function Hero() {
       <div className="hero-kicker">Web Design · Domains · Apps · Hudson Valley</div>
 
       <h1 className="hero-name">
-        Christian<br />
-        <span>Daragona</span>
+        Sicuro<br />
+        <span>Design</span>
       </h1>
 
       <p className="hero-tagline">

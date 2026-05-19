@@ -29,12 +29,12 @@ const lora = Lora({
 });
 
 export const metadata: Metadata = {
-  title: "Christian Daragona — Web Design, Domains & App Development · Hudson Valley",
+  title: "Sicuro Design Services — Web Design, Domains & App Development · Hudson Valley",
   description:
     "Local web design, domain registration, and app development for Hudson Valley businesses. Fast turnaround, fair prices, no monthly fees. Based in Saugerties, NY.",
-  keywords: "web design Hudson Valley, web design Saugerties, website developer Kingston NY, restaurant website, local web developer",
+  keywords: "web design Hudson Valley, web design Saugerties, website developer Kingston NY, restaurant website, local web developer, Sicuro Design",
   openGraph: {
-    title: "Christian Daragona — Web Design · Hudson Valley",
+    title: "Sicuro Design Services — Web Design · Hudson Valley",
     description: "Websites, domains, and apps for local businesses. Based in Saugerties, NY.",
     type: "website",
   },
