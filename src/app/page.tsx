@@ -1,5 +1,6 @@
 import Nav from "@/components/Nav";
 import Hero from "@/components/Hero";
+import MilitaryBanner from "@/components/MilitaryBanner";
 import WhoIHelp from "@/components/WhoIHelp";
 import Services from "@/components/Services";
 import DomainServices from "@/components/DomainServices";
@@ -14,6 +15,7 @@ export default function Home() {
     <>
       <Nav />
       <Hero />
+      <MilitaryBanner />
       <WhoIHelp />
       <Services />
       <DomainServices />

@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="cta-left">
           <h2>Ready to Build?</h2>
           <p>Free consultation. No commitment. Just a straight conversation.</p>
-          <span className="guarantee-pill">No monthly fees · You own everything · Local &amp; available</span>
+          <span className="guarantee-pill">No monthly fees · You own everything · Military Member Owned</span>
         </div>
         <div className="cta-right">
           <div className="cta-contact">
@@ -31,7 +31,7 @@ export default function Footer() {
       <div className="fine-print">
         <span>Sicuro Design Services · Saugerties, NY</span>
         <span>Prices as of May 2026 · Subject to project scope</span>
-        <span>All sites are mobile-first, fast, and fully owned by you</span>
+        <span>★ 100% U.S. Military Member Owned &amp; Operated</span>
       </div>
     </>
   );
