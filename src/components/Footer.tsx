@@ -10,6 +10,10 @@ export default function Footer() {
         <div className="cta-right">
           <div className="cta-contact">
             <div className="dot" />
+            <a href="tel:8453800344" style={{ color: "inherit", textDecoration: "none" }}>(845) 380-0344</a>
+          </div>
+          <div className="cta-contact">
+            <div className="dot" />
             <span>Saugerties, New York</span>
           </div>
           <div className="cta-contact">

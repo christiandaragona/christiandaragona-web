@@ -30,6 +30,10 @@ export default function Contact() {
             </div>
             <div className="contact-detail">
               <div className="contact-dot" />
+              <span><strong>Phone</strong> <a href="tel:8453800344" style={{ color: "inherit", textDecoration: "none" }}>(845) 380-0344</a></span>
+            </div>
+            <div className="contact-detail">
+              <div className="contact-dot" />
               <span><strong>Email</strong> christian.p.daragona@outlook.com</span>
             </div>
             <div className="contact-detail">
