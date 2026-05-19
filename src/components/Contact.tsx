@@ -18,7 +18,6 @@ export default function Contact() {
             Free consultation. No commitment. Tell me about your business and what you need —
             I&apos;ll come back with a clear scope and price, no pressure.
           </p>
-          <p>I buy the coffee.</p>
 
           <div style={{ marginTop: "1.75rem" }}>
             <div className="contact-detail">

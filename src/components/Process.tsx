@@ -1,7 +1,7 @@
 const steps = [
   {
     num: "01",
-    title: "Coffee Chat",
+    title: "Consultation",
     desc: "We meet — in person or by phone. You tell me what you need, I listen. No pitch, no pressure.",
   },
   {

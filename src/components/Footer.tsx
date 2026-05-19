@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="cta-strip">
         <div className="cta-left">
           <h2>Ready to Build?</h2>
-          <p>Free consultation. No commitment. I&apos;ll buy the coffee.</p>
+          <p>Free consultation. No commitment. Just a straight conversation.</p>
           <span className="guarantee-pill">No monthly fees · You own everything · Local &amp; available</span>
         </div>
         <div className="cta-right">
